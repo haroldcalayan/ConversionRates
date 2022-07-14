@@ -1,0 +1,9 @@
+ext.configs = [
+        applicationName     : "Conversion Rates",
+        applicationId       : "com.haroldcalayan.conversionrates",
+        versionCode         : 1,
+        versionName         : "0.0.1",
+        minSdk              : 21,
+        targetSdk           : 31,
+        compileSdk          : 31
+]
