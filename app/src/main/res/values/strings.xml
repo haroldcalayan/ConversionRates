@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">ConversionRates</string>
+    <string name="app_name">Conversion Rates</string>
+
+    <!--  Messages  -->
+    <string name="message_generic_error">Please try again later</string>
+    <string name="message_app_requires_permission">I\'m sorry. This app requires all permissions to be granted</string>
+    <string name="loading">Loading...</string>
+
+    <!--  Main  -->
+
 </resources>
